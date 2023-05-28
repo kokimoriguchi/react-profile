@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-profile.git/static/css/main.004e0d66.css",
+    "main.js": "/react-profile.git/static/js/main.3b325842.js",
+    "index.html": "/react-profile.git/index.html",
+    "main.004e0d66.css.map": "/react-profile.git/static/css/main.004e0d66.css.map",
+    "main.3b325842.js.map": "/react-profile.git/static/js/main.3b325842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004e0d66.css",
+    "static/js/main.3b325842.js"
+  ]
+}
